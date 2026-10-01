@@ -15,7 +15,8 @@ def wilson(k, n, conf=0.95):
     denom = 1 + z * z / n
     centre = (p + z * z / (2 * n)) / denom
     half = z * math.sqrt(p * (1 - p) / n + z * z / (4 * n * n)) / denom
-    return p, max(0.0, centre - half), min(1.0, centre + half)
+    lo, hi = centre - half, centre + half
+    return p, 0.0 if lo < 1e-12 else lo, 1.0 if hi > 1 - 1e-12 else hi
 
 
 def diff_ci(k1, n1, k2, n2, conf=0.95):
