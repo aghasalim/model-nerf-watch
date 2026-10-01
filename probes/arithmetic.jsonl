@@ -1,0 +1,15 @@
+{"id": "arith-01", "family": "arithmetic", "prompt": "What is 47 * 83? Output only the number.", "answer": 3901}
+{"id": "arith-02", "family": "arithmetic", "prompt": "What is 1234 + 8766? Output only the number.", "answer": 10000}
+{"id": "arith-03", "family": "arithmetic", "prompt": "What is 5000 - 1287? Output only the number.", "answer": 3713}
+{"id": "arith-04", "family": "arithmetic", "prompt": "What is 144 / 12? Output only the number.", "answer": 12}
+{"id": "arith-05", "family": "arithmetic", "prompt": "What is 17 squared? Output only the number.", "answer": 289}
+{"id": "arith-06", "family": "arithmetic", "prompt": "What is 2 to the power of 10? Output only the number.", "answer": 1024}
+{"id": "arith-07", "family": "arithmetic", "prompt": "What is 1001 modulo 7? Output only the number.", "answer": 0}
+{"id": "arith-08", "family": "arithmetic", "prompt": "What is 15% of 240? Output only the number.", "answer": 36}
+{"id": "arith-09", "family": "arithmetic", "prompt": "What is 999 * 999? Output only the number.", "answer": 998001}
+{"id": "arith-10", "family": "arithmetic", "prompt": "What is the sum of the integers from 1 to 100? Output only the number.", "answer": 5050}
+{"id": "arith-11", "family": "arithmetic", "prompt": "What is 3 * (4 + 5) - 6? Output only the number.", "answer": 21}
+{"id": "arith-12", "family": "arithmetic", "prompt": "What is 7! (seven factorial)? Output only the number.", "answer": 5040}
+{"id": "arith-13", "family": "arithmetic", "prompt": "What is 123456 + 654321? Output only the number.", "answer": 777777}
+{"id": "arith-14", "family": "arithmetic", "prompt": "What is 2024 / 8? Output only the number.", "answer": 253}
+{"id": "arith-15", "family": "arithmetic", "prompt": "What is 365 * 24? Output only the number.", "answer": 8760}

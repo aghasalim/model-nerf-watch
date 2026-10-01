@@ -1,0 +1,8 @@
+{
+ "openai/gpt-4o-mini": {"choices": [{"message": {"role": "assistant", "content": "391"}}]},
+ "groq/llama-3.1-8b-instant": {"choices": [{"message": {"role": "assistant", "content": "391"}}]},
+ "openrouter/meta-llama/llama-3.1-8b-instruct": {"choices": [{"message": {"role": "assistant", "content": "391"}}]},
+ "ollama/qwen3:8b": {"message": {"role": "assistant", "content": "391"}, "done": true},
+ "anthropic/claude-3-5-haiku-latest": {"content": [{"type": "text", "text": "391"}], "stop_reason": "end_turn"},
+ "gemini/gemini-2.0-flash": {"candidates": [{"content": {"parts": [{"text": "391"}], "role": "model"}}]}
+}

@@ -1,0 +1,15 @@
+{"id": "fact-01", "family": "fact", "prompt": "What is the capital city of Australia? Output only the answer.", "answer": "Canberra"}
+{"id": "fact-02", "family": "fact", "prompt": "What is the chemical symbol for gold? Output only the answer.", "answer": "Au"}
+{"id": "fact-03", "family": "fact", "prompt": "In what year did the Second World War end? Output only the answer.", "answer": "1945"}
+{"id": "fact-04", "family": "fact", "prompt": "Which planet in our solar system is the largest? Output only the answer.", "answer": "Jupiter"}
+{"id": "fact-05", "family": "fact", "prompt": "What is the largest ocean on Earth? Output only the answer.", "answer": "Pacific Ocean"}
+{"id": "fact-06", "family": "fact", "prompt": "How many sides does a hexagon have? Output only the answer.", "answer": "6"}
+{"id": "fact-07", "family": "fact", "prompt": "What is the boiling point of water in degrees Celsius at sea level? Output only the answer.", "answer": "100"}
+{"id": "fact-08", "family": "fact", "prompt": "Which element has atomic number 1? Output only the answer.", "answer": "Hydrogen"}
+{"id": "fact-09", "family": "fact", "prompt": "What is the capital city of Canada? Output only the answer.", "answer": "Ottawa"}
+{"id": "fact-10", "family": "fact", "prompt": "What is the square root of 169? Output only the answer.", "answer": "13"}
+{"id": "fact-11", "family": "fact", "prompt": "Which language has the ISO 639-1 code 'nl'? Output only the answer.", "answer": "Dutch"}
+{"id": "fact-12", "family": "fact", "prompt": "What currency is used in Japan? Output only the answer.", "answer": "Yen"}
+{"id": "fact-13", "family": "fact", "prompt": "How many minutes are in a day? Output only the answer.", "answer": "1440"}
+{"id": "fact-14", "family": "fact", "prompt": "What is the chemical formula for water? Output only the answer.", "answer": "H2O"}
+{"id": "fact-15", "family": "fact", "prompt": "Which continent is Egypt in? Output only the answer.", "answer": "Africa"}

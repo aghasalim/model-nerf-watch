@@ -1,0 +1,15 @@
+{"id": "str-01", "family": "string", "prompt": "Reverse the string banana. Output only the reversed string. No quotes, no extra text.", "answer": "ananab"}
+{"id": "str-02", "family": "string", "prompt": "Write the word cat three times separated by single hyphens, nothing else. No quotes, no extra text.", "answer": "cat-cat-cat"}
+{"id": "str-03", "family": "string", "prompt": "Output the letters of the word hello in uppercase, separated by commas with no spaces. No quotes, no extra text.", "answer": "H,E,L,L,O"}
+{"id": "str-04", "family": "string", "prompt": "Output the digits 1 through 5 in descending order with no separators. No quotes, no extra text.", "answer": "54321"}
+{"id": "str-05", "family": "string", "prompt": "Output exactly the text OK in uppercase and nothing else. No quotes, no extra text.", "answer": "OK"}
+{"id": "str-06", "family": "string", "prompt": "Replace every vowel in the word computer with an underscore. Output only the result. No quotes, no extra text.", "answer": "c_mp_t_r"}
+{"id": "str-07", "family": "string", "prompt": "Output the word apple with its first letter capitalised and nothing else. No quotes, no extra text.", "answer": "Apple"}
+{"id": "str-08", "family": "string", "prompt": "Sort these words alphabetically and output them separated by single spaces: pear fig apple No quotes, no extra text.", "answer": "apple fig pear"}
+{"id": "str-09", "family": "string", "prompt": "Output the third word of this sentence and nothing else: the quick brown fox No quotes, no extra text.", "answer": "brown"}
+{"id": "str-10", "family": "string", "prompt": "Count the letters in the word strawberry that are the letter r. Output only the number. No quotes, no extra text.", "answer": "3"}
+{"id": "str-11", "family": "string", "prompt": "Join these with a plus sign and no spaces: a b c No quotes, no extra text.", "answer": "a+b+c"}
+{"id": "str-12", "family": "string", "prompt": "Output the string abc repeated twice with no separator. No quotes, no extra text.", "answer": "abcabc"}
+{"id": "str-13", "family": "string", "prompt": "Convert the word SHOUT to lowercase and output only that. No quotes, no extra text.", "answer": "shout"}
+{"id": "str-14", "family": "string", "prompt": "Remove all spaces from this text and output the result: a b c d No quotes, no extra text.", "answer": "abcd"}
+{"id": "str-15", "family": "string", "prompt": "Output the first and last letter of the word python, joined with no separator. No quotes, no extra text.", "answer": "pn"}

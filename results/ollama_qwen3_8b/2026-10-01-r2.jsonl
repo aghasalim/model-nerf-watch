@@ -1,0 +1,360 @@
+{"id": "arith-01", "family": "arithmetic", "temperature": 0.0, "sample": 0, "output": "3801", "pass": false, "latency_s": 0.45}
+{"id": "arith-01", "family": "arithmetic", "temperature": 0.0, "sample": 1, "output": "3801", "pass": false, "latency_s": 0.305}
+{"id": "arith-01", "family": "arithmetic", "temperature": 0.0, "sample": 2, "output": "3801", "pass": false, "latency_s": 0.297}
+{"id": "arith-02", "family": "arithmetic", "temperature": 0.0, "sample": 0, "output": "10000", "pass": true, "latency_s": 0.495}
+{"id": "arith-02", "family": "arithmetic", "temperature": 0.0, "sample": 1, "output": "10000", "pass": true, "latency_s": 0.363}
+{"id": "arith-02", "family": "arithmetic", "temperature": 0.0, "sample": 2, "output": "10000", "pass": true, "latency_s": 0.358}
+{"id": "arith-03", "family": "arithmetic", "temperature": 0.0, "sample": 0, "output": "3713", "pass": true, "latency_s": 0.441}
+{"id": "arith-03", "family": "arithmetic", "temperature": 0.0, "sample": 1, "output": "3713", "pass": true, "latency_s": 0.314}
+{"id": "arith-03", "family": "arithmetic", "temperature": 0.0, "sample": 2, "output": "3713", "pass": true, "latency_s": 0.309}
+{"id": "arith-04", "family": "arithmetic", "temperature": 0.0, "sample": 0, "output": "12", "pass": true, "latency_s": 0.319}
+{"id": "arith-04", "family": "arithmetic", "temperature": 0.0, "sample": 1, "output": "12", "pass": true, "latency_s": 0.18}
+{"id": "arith-04", "family": "arithmetic", "temperature": 0.0, "sample": 2, "output": "12", "pass": true, "latency_s": 0.179}
+{"id": "arith-05", "family": "arithmetic", "temperature": 0.0, "sample": 0, "output": "289", "pass": true, "latency_s": 0.361}
+{"id": "arith-05", "family": "arithmetic", "temperature": 0.0, "sample": 1, "output": "289", "pass": true, "latency_s": 0.238}
+{"id": "arith-05", "family": "arithmetic", "temperature": 0.0, "sample": 2, "output": "289", "pass": true, "latency_s": 0.233}
+{"id": "arith-06", "family": "arithmetic", "temperature": 0.0, "sample": 0, "output": "1024", "pass": true, "latency_s": 0.415}
+{"id": "arith-06", "family": "arithmetic", "temperature": 0.0, "sample": 1, "output": "1024", "pass": true, "latency_s": 0.308}
+{"id": "arith-06", "family": "arithmetic", "temperature": 0.0, "sample": 2, "output": "1024", "pass": true, "latency_s": 0.299}
+{"id": "arith-07", "family": "arithmetic", "temperature": 0.0, "sample": 0, "output": "2", "pass": false, "latency_s": 0.244}
+{"id": "arith-07", "family": "arithmetic", "temperature": 0.0, "sample": 1, "output": "2", "pass": false, "latency_s": 0.12}
+{"id": "arith-07", "family": "arithmetic", "temperature": 0.0, "sample": 2, "output": "2", "pass": false, "latency_s": 0.12}
+{"id": "arith-08", "family": "arithmetic", "temperature": 0.0, "sample": 0, "output": "36", "pass": true, "latency_s": 0.299}
+{"id": "arith-08", "family": "arithmetic", "temperature": 0.0, "sample": 1, "output": "36", "pass": true, "latency_s": 0.176}
+{"id": "arith-08", "family": "arithmetic", "temperature": 0.0, "sample": 2, "output": "36", "pass": true, "latency_s": 0.181}
+{"id": "arith-09", "family": "arithmetic", "temperature": 0.0, "sample": 0, "output": "998001", "pass": true, "latency_s": 0.408}
+{"id": "arith-09", "family": "arithmetic", "temperature": 0.0, "sample": 1, "output": "998001", "pass": true, "latency_s": 0.415}
+{"id": "arith-09", "family": "arithmetic", "temperature": 0.0, "sample": 2, "output": "998001", "pass": true, "latency_s": 0.411}
+{"id": "arith-10", "family": "arithmetic", "temperature": 0.0, "sample": 0, "output": "5050", "pass": true, "latency_s": 0.46}
+{"id": "arith-10", "family": "arithmetic", "temperature": 0.0, "sample": 1, "output": "5050", "pass": true, "latency_s": 0.305}
+{"id": "arith-10", "family": "arithmetic", "temperature": 0.0, "sample": 2, "output": "5050", "pass": true, "latency_s": 0.329}
+{"id": "arith-11", "family": "arithmetic", "temperature": 0.0, "sample": 0, "output": "21", "pass": true, "latency_s": 0.191}
+{"id": "arith-11", "family": "arithmetic", "temperature": 0.0, "sample": 1, "output": "21", "pass": true, "latency_s": 0.185}
+{"id": "arith-11", "family": "arithmetic", "temperature": 0.0, "sample": 2, "output": "21", "pass": true, "latency_s": 0.183}
+{"id": "arith-12", "family": "arithmetic", "temperature": 0.0, "sample": 0, "output": "5040", "pass": true, "latency_s": 0.313}
+{"id": "arith-12", "family": "arithmetic", "temperature": 0.0, "sample": 1, "output": "5040", "pass": true, "latency_s": 0.31}
+{"id": "arith-12", "family": "arithmetic", "temperature": 0.0, "sample": 2, "output": "5040", "pass": true, "latency_s": 0.412}
+{"id": "arith-13", "family": "arithmetic", "temperature": 0.0, "sample": 0, "output": "777777", "pass": true, "latency_s": 0.577}
+{"id": "arith-13", "family": "arithmetic", "temperature": 0.0, "sample": 1, "output": "777777", "pass": true, "latency_s": 0.403}
+{"id": "arith-13", "family": "arithmetic", "temperature": 0.0, "sample": 2, "output": "777777", "pass": true, "latency_s": 0.453}
+{"id": "arith-14", "family": "arithmetic", "temperature": 0.0, "sample": 0, "output": "253", "pass": true, "latency_s": 0.232}
+{"id": "arith-14", "family": "arithmetic", "temperature": 0.0, "sample": 1, "output": "253", "pass": true, "latency_s": 0.227}
+{"id": "arith-14", "family": "arithmetic", "temperature": 0.0, "sample": 2, "output": "253", "pass": true, "latency_s": 0.242}
+{"id": "arith-15", "family": "arithmetic", "temperature": 0.0, "sample": 0, "output": "8760", "pass": true, "latency_s": 0.293}
+{"id": "arith-15", "family": "arithmetic", "temperature": 0.0, "sample": 1, "output": "8760", "pass": true, "latency_s": 0.27}
+{"id": "arith-15", "family": "arithmetic", "temperature": 0.0, "sample": 2, "output": "8760", "pass": true, "latency_s": 0.272}
+{"id": "code-01", "family": "code", "temperature": 0.0, "sample": 0, "output": "def add(a, b):\n    return a + b", "pass": true, "latency_s": 0.666}
+{"id": "code-01", "family": "code", "temperature": 0.0, "sample": 1, "output": "def add(a, b):\n    return a + b", "pass": true, "latency_s": 0.669}
+{"id": "code-01", "family": "code", "temperature": 0.0, "sample": 2, "output": "def add(a, b):\n    return a + b", "pass": true, "latency_s": 0.688}
+{"id": "code-02", "family": "code", "temperature": 0.0, "sample": 0, "output": "def is_even(n):\n    return n % 2 == 0", "pass": true, "latency_s": 0.975}
+{"id": "code-02", "family": "code", "temperature": 0.0, "sample": 1, "output": "def is_even(n):\n    return n % 2 == 0", "pass": true, "latency_s": 0.825}
+{"id": "code-02", "family": "code", "temperature": 0.0, "sample": 2, "output": "def is_even(n):\n    return n % 2 == 0", "pass": true, "latency_s": 0.877}
+{"id": "code-03", "family": "code", "temperature": 0.0, "sample": 0, "output": "def reverse_string(s):\n    return s[::-1]", "pass": true, "latency_s": 0.801}
+{"id": "code-03", "family": "code", "temperature": 0.0, "sample": 1, "output": "def reverse_string(s):\n    return s[::-1]", "pass": true, "latency_s": 0.693}
+{"id": "code-03", "family": "code", "temperature": 0.0, "sample": 2, "output": "def reverse_string(s):\n    return s[::-1]", "pass": true, "latency_s": 0.701}
+{"id": "code-04", "family": "code", "temperature": 0.0, "sample": 0, "output": "def max_of_list(xs): return max(xs)", "pass": true, "latency_s": 0.698}
+{"id": "code-04", "family": "code", "temperature": 0.0, "sample": 1, "output": "def max_of_list(xs): return max(xs)", "pass": true, "latency_s": 0.718}
+{"id": "code-04", "family": "code", "temperature": 0.0, "sample": 2, "output": "def max_of_list(xs): return max(xs)", "pass": true, "latency_s": 0.743}
+{"id": "code-05", "family": "code", "temperature": 0.0, "sample": 0, "output": "```python\ndef factorial(n):\n    if n == 0:\n        return 1\n    else:\n        return n * factorial(n - 1)\n```", "pass": true, "latency_s": 2.255}
+{"id": "code-05", "family": "code", "temperature": 0.0, "sample": 1, "output": "```python\ndef factorial(n):\n    if n == 0:\n        return 1\n    else:\n        return n * factorial(n - 1)\n```", "pass": true, "latency_s": 2.175}
+{"id": "code-05", "family": "code", "temperature": 0.0, "sample": 2, "output": "```python\ndef factorial(n):\n    if n == 0:\n        return 1\n    else:\n        return n * factorial(n - 1)\n```", "pass": true, "latency_s": 2.199}
+{"id": "code-06", "family": "code", "temperature": 0.0, "sample": 0, "output": "```python\ndef count_vowels(s):\n    return sum(1 for char in s if char in 'aeiou')\n```", "pass": true, "latency_s": 1.94}
+{"id": "code-06", "family": "code", "temperature": 0.0, "sample": 1, "output": "```python\ndef count_vowels(s):\n    return sum(1 for char in s if char in 'aeiou')\n```", "pass": true, "latency_s": 1.707}
+{"id": "code-06", "family": "code", "temperature": 0.0, "sample": 2, "output": "```python\ndef count_vowels(s):\n    return sum(1 for char in s if char in 'aeiou')\n```", "pass": true, "latency_s": 1.718}
+{"id": "code-07", "family": "code", "temperature": 0.0, "sample": 0, "output": "```python\ndef fib(n):\n    a, b = 0, 1\n    for _ in range(n):\n        a, b = b, a + b\n    return a\n```", "pass": true, "latency_s": 2.246}
+{"id": "code-07", "family": "code", "temperature": 0.0, "sample": 1, "output": "```python\ndef fib(n):\n    a, b = 0, 1\n    for _ in range(n):\n        a, b = b, a + b\n    return a\n```", "pass": true, "latency_s": 2.528}
+{"id": "code-07", "family": "code", "temperature": 0.0, "sample": 2, "output": "```python\ndef fib(n):\n    a, b = 0, 1\n    for _ in range(n):\n        a, b = b, a + b\n    return a\n```", "pass": true, "latency_s": 2.331}
+{"id": "code-08", "family": "code", "temperature": 0.0, "sample": 0, "output": "def is_palindrome(s): return s == s[::-1]", "pass": true, "latency_s": 0.974}
+{"id": "code-08", "family": "code", "temperature": 0.0, "sample": 1, "output": "def is_palindrome(s): return s == s[::-1]", "pass": true, "latency_s": 0.824}
+{"id": "code-08", "family": "code", "temperature": 0.0, "sample": 2, "output": "def is_palindrome(s): return s == s[::-1]", "pass": true, "latency_s": 0.879}
+{"id": "code-09", "family": "code", "temperature": 0.0, "sample": 0, "output": "```python\ndef sum_digits(n):\n    return sum(int(digit) for digit in str(n))\n```", "pass": true, "latency_s": 1.265}
+{"id": "code-09", "family": "code", "temperature": 0.0, "sample": 1, "output": "```python\ndef sum_digits(n):\n    return sum(int(digit) for digit in str(n))\n```", "pass": true, "latency_s": 1.228}
+{"id": "code-09", "family": "code", "temperature": 0.0, "sample": 2, "output": "```python\ndef sum_digits(n):\n    return sum(int(digit) for digit in str(n))\n```", "pass": true, "latency_s": 1.273}
+{"id": "code-10", "family": "code", "temperature": 0.0, "sample": 0, "output": "def flatten(xss): return [x for l in xss for x in l]", "pass": true, "latency_s": 1.07}
+{"id": "code-10", "family": "code", "temperature": 0.0, "sample": 1, "output": "def flatten(xss): return [x for l in xss for x in l]", "pass": true, "latency_s": 1.028}
+{"id": "code-10", "family": "code", "temperature": 0.0, "sample": 2, "output": "def flatten(xss): return [x for l in xss for x in l]", "pass": true, "latency_s": 1.029}
+{"id": "code-11", "family": "code", "temperature": 0.0, "sample": 0, "output": "```python\ndef gcd(a, b):\n    while b:\n        a, b = b, a % b\n    return a\n```", "pass": true, "latency_s": 1.671}
+{"id": "code-11", "family": "code", "temperature": 0.0, "sample": 1, "output": "```python\ndef gcd(a, b):\n    while b:\n        a, b = b, a % b\n    return a\n```", "pass": true, "latency_s": 1.648}
+{"id": "code-11", "family": "code", "temperature": 0.0, "sample": 2, "output": "```python\ndef gcd(a, b):\n    while b:\n        a, b = b, a % b\n    return a\n```", "pass": true, "latency_s": 1.719}
+{"id": "code-12", "family": "code", "temperature": 0.0, "sample": 0, "output": "def second_largest(xs):\n    unique = list(set(xs))\n    unique.sort()\n    return unique[-2]", "pass": true, "latency_s": 1.368}
+{"id": "code-12", "family": "code", "temperature": 0.0, "sample": 1, "output": "def second_largest(xs):\n    unique = list(set(xs))\n    unique.sort()\n    return unique[-2]", "pass": true, "latency_s": 1.344}
+{"id": "code-12", "family": "code", "temperature": 0.0, "sample": 2, "output": "def second_largest(xs):\n    unique = list(set(xs))\n    unique.sort()\n    return unique[-2]", "pass": true, "latency_s": 1.33}
+{"id": "code-13", "family": "code", "temperature": 0.0, "sample": 0, "output": "```python\ndef word_count(s):\n    return len(s.split())\n```", "pass": true, "latency_s": 0.882}
+{"id": "code-13", "family": "code", "temperature": 0.0, "sample": 1, "output": "```python\ndef word_count(s):\n    return len(s.split())\n```", "pass": true, "latency_s": 0.88}
+{"id": "code-13", "family": "code", "temperature": 0.0, "sample": 2, "output": "```python\ndef word_count(s):\n    return len(s.split())\n```", "pass": true, "latency_s": 0.878}
+{"id": "code-14", "family": "code", "temperature": 0.0, "sample": 0, "output": "def clamp(x, lo, hi): return max(lo, min(x, hi))", "pass": true, "latency_s": 1.011}
+{"id": "code-14", "family": "code", "temperature": 0.0, "sample": 1, "output": "def clamp(x, lo, hi): return max(lo, min(x, hi))", "pass": true, "latency_s": 0.971}
+{"id": "code-14", "family": "code", "temperature": 0.0, "sample": 2, "output": "def clamp(x, lo, hi): return max(lo, min(x, hi))", "pass": true, "latency_s": 0.967}
+{"id": "code-15", "family": "code", "temperature": 0.0, "sample": 0, "output": "```python\ndef is_prime(n):\n    if n <= 1:\n        return False\n    if n == 2:\n        return True\n    if n % 2 == 0:\n        return False\n    for i in range(3, int(n**0.5) + 1, 2):\n        if n % i == 0:\n            return False\n    return True\n```", "pass": true, "latency_s": 4.513}
+{"id": "code-15", "family": "code", "temperature": 0.0, "sample": 1, "output": "```python\ndef is_prime(n):\n    if n <= 1:\n        return False\n    if n == 2:\n        return True\n    if n % 2 == 0:\n        return False\n    for i in range(3, int(n**0.5) + 1, 2):\n        if n % i == 0:\n            return False\n    return True\n```", "pass": true, "latency_s": 4.572}
+{"id": "code-15", "family": "code", "temperature": 0.0, "sample": 2, "output": "```python\ndef is_prime(n):\n    if n <= 1:\n        return False\n    if n == 2:\n        return True\n    if n % 2 == 0:\n        return False\n    for i in range(3, int(n**0.5) + 1, 2):\n        if n % i == 0:\n            return False\n    return True\n```", "pass": true, "latency_s": 4.901}
+{"id": "fact-01", "family": "fact", "temperature": 0.0, "sample": 0, "output": "Canberra", "pass": true, "latency_s": 0.299}
+{"id": "fact-01", "family": "fact", "temperature": 0.0, "sample": 1, "output": "Canberra", "pass": true, "latency_s": 0.193}
+{"id": "fact-01", "family": "fact", "temperature": 0.0, "sample": 2, "output": "Canberra", "pass": true, "latency_s": 0.178}
+{"id": "fact-02", "family": "fact", "temperature": 0.0, "sample": 0, "output": "Au", "pass": true, "latency_s": 0.242}
+{"id": "fact-02", "family": "fact", "temperature": 0.0, "sample": 1, "output": "Au", "pass": true, "latency_s": 0.143}
+{"id": "fact-02", "family": "fact", "temperature": 0.0, "sample": 2, "output": "Au", "pass": true, "latency_s": 0.12}
+{"id": "fact-03", "family": "fact", "temperature": 0.0, "sample": 0, "output": "1945", "pass": true, "latency_s": 0.391}
+{"id": "fact-03", "family": "fact", "temperature": 0.0, "sample": 1, "output": "1945", "pass": true, "latency_s": 0.377}
+{"id": "fact-03", "family": "fact", "temperature": 0.0, "sample": 2, "output": "1945", "pass": true, "latency_s": 0.41}
+{"id": "fact-04", "family": "fact", "temperature": 0.0, "sample": 0, "output": "Jupiter", "pass": true, "latency_s": 0.348}
+{"id": "fact-04", "family": "fact", "temperature": 0.0, "sample": 1, "output": "Jupiter", "pass": true, "latency_s": 0.204}
+{"id": "fact-04", "family": "fact", "temperature": 0.0, "sample": 2, "output": "Jupiter", "pass": true, "latency_s": 0.212}
+{"id": "fact-05", "family": "fact", "temperature": 0.0, "sample": 0, "output": "Pacific Ocean", "pass": true, "latency_s": 0.304}
+{"id": "fact-05", "family": "fact", "temperature": 0.0, "sample": 1, "output": "Pacific Ocean", "pass": true, "latency_s": 0.174}
+{"id": "fact-05", "family": "fact", "temperature": 0.0, "sample": 2, "output": "Pacific Ocean", "pass": true, "latency_s": 0.179}
+{"id": "fact-06", "family": "fact", "temperature": 0.0, "sample": 0, "output": "6", "pass": true, "latency_s": 0.244}
+{"id": "fact-06", "family": "fact", "temperature": 0.0, "sample": 1, "output": "6", "pass": true, "latency_s": 0.115}
+{"id": "fact-06", "family": "fact", "temperature": 0.0, "sample": 2, "output": "6", "pass": true, "latency_s": 0.112}
+{"id": "fact-07", "family": "fact", "temperature": 0.0, "sample": 0, "output": "100", "pass": true, "latency_s": 0.331}
+{"id": "fact-07", "family": "fact", "temperature": 0.0, "sample": 1, "output": "100", "pass": true, "latency_s": 0.218}
+{"id": "fact-07", "family": "fact", "temperature": 0.0, "sample": 2, "output": "100", "pass": true, "latency_s": 0.223}
+{"id": "fact-08", "family": "fact", "temperature": 0.0, "sample": 0, "output": "Hydrogen", "pass": true, "latency_s": 0.356}
+{"id": "fact-08", "family": "fact", "temperature": 0.0, "sample": 1, "output": "Hydrogen", "pass": true, "latency_s": 0.234}
+{"id": "fact-08", "family": "fact", "temperature": 0.0, "sample": 2, "output": "Hydrogen", "pass": true, "latency_s": 0.241}
+{"id": "fact-09", "family": "fact", "temperature": 0.0, "sample": 0, "output": "Ottawa", "pass": true, "latency_s": 0.386}
+{"id": "fact-09", "family": "fact", "temperature": 0.0, "sample": 1, "output": "Ottawa", "pass": true, "latency_s": 0.238}
+{"id": "fact-09", "family": "fact", "temperature": 0.0, "sample": 2, "output": "Ottawa", "pass": true, "latency_s": 0.261}
+{"id": "fact-10", "family": "fact", "temperature": 0.0, "sample": 0, "output": "13", "pass": true, "latency_s": 0.319}
+{"id": "fact-10", "family": "fact", "temperature": 0.0, "sample": 1, "output": "13", "pass": true, "latency_s": 0.191}
+{"id": "fact-10", "family": "fact", "temperature": 0.0, "sample": 2, "output": "13", "pass": true, "latency_s": 0.184}
+{"id": "fact-11", "family": "fact", "temperature": 0.0, "sample": 0, "output": "Dutch", "pass": true, "latency_s": 0.295}
+{"id": "fact-11", "family": "fact", "temperature": 0.0, "sample": 1, "output": "Dutch", "pass": true, "latency_s": 0.179}
+{"id": "fact-11", "family": "fact", "temperature": 0.0, "sample": 2, "output": "Dutch", "pass": true, "latency_s": 0.174}
+{"id": "fact-12", "family": "fact", "temperature": 0.0, "sample": 0, "output": "Japanese Yen (JPY)", "pass": false, "latency_s": 0.539}
+{"id": "fact-12", "family": "fact", "temperature": 0.0, "sample": 1, "output": "Japanese Yen (JPY)", "pass": false, "latency_s": 0.504}
+{"id": "fact-12", "family": "fact", "temperature": 0.0, "sample": 2, "output": "Japanese Yen (JPY)", "pass": false, "latency_s": 0.627}
+{"id": "fact-13", "family": "fact", "temperature": 0.0, "sample": 0, "output": "1440", "pass": true, "latency_s": 0.458}
+{"id": "fact-13", "family": "fact", "temperature": 0.0, "sample": 1, "output": "1440", "pass": true, "latency_s": 0.31}
+{"id": "fact-13", "family": "fact", "temperature": 0.0, "sample": 2, "output": "1440", "pass": true, "latency_s": 0.311}
+{"id": "fact-14", "family": "fact", "temperature": 0.0, "sample": 0, "output": "H\u2082O", "pass": true, "latency_s": 0.363}
+{"id": "fact-14", "family": "fact", "temperature": 0.0, "sample": 1, "output": "H\u2082O", "pass": true, "latency_s": 0.247}
+{"id": "fact-14", "family": "fact", "temperature": 0.0, "sample": 2, "output": "H\u2082O", "pass": true, "latency_s": 0.285}
+{"id": "fact-15", "family": "fact", "temperature": 0.0, "sample": 0, "output": "Africa", "pass": true, "latency_s": 0.245}
+{"id": "fact-15", "family": "fact", "temperature": 0.0, "sample": 1, "output": "Africa", "pass": true, "latency_s": 0.115}
+{"id": "fact-15", "family": "fact", "temperature": 0.0, "sample": 2, "output": "Africa", "pass": true, "latency_s": 0.116}
+{"id": "str-01", "family": "string", "temperature": 0.0, "sample": 0, "output": "ananab", "pass": true, "latency_s": 0.195}
+{"id": "str-01", "family": "string", "temperature": 0.0, "sample": 1, "output": "ananab", "pass": true, "latency_s": 0.185}
+{"id": "str-01", "family": "string", "temperature": 0.0, "sample": 2, "output": "ananab", "pass": true, "latency_s": 0.17}
+{"id": "str-02", "family": "string", "temperature": 0.0, "sample": 0, "output": "cat-cat-cat", "pass": true, "latency_s": 0.251}
+{"id": "str-02", "family": "string", "temperature": 0.0, "sample": 1, "output": "cat-cat-cat", "pass": true, "latency_s": 0.29}
+{"id": "str-02", "family": "string", "temperature": 0.0, "sample": 2, "output": "cat-cat-cat", "pass": true, "latency_s": 0.251}
+{"id": "str-03", "family": "string", "temperature": 0.0, "sample": 0, "output": "H,E,L,L,O", "pass": true, "latency_s": 0.645}
+{"id": "str-03", "family": "string", "temperature": 0.0, "sample": 1, "output": "H,E,L,L,O", "pass": true, "latency_s": 0.394}
+{"id": "str-03", "family": "string", "temperature": 0.0, "sample": 2, "output": "H,E,L,L,O", "pass": true, "latency_s": 0.372}
+{"id": "str-04", "family": "string", "temperature": 0.0, "sample": 0, "output": "54321", "pass": true, "latency_s": 0.652}
+{"id": "str-04", "family": "string", "temperature": 0.0, "sample": 1, "output": "54321", "pass": true, "latency_s": 0.353}
+{"id": "str-04", "family": "string", "temperature": 0.0, "sample": 2, "output": "54321", "pass": true, "latency_s": 0.407}
+{"id": "str-05", "family": "string", "temperature": 0.0, "sample": 0, "output": "OK", "pass": true, "latency_s": 0.258}
+{"id": "str-05", "family": "string", "temperature": 0.0, "sample": 1, "output": "OK", "pass": true, "latency_s": 0.158}
+{"id": "str-05", "family": "string", "temperature": 0.0, "sample": 2, "output": "OK", "pass": true, "latency_s": 0.14}
+{"id": "str-06", "family": "string", "temperature": 0.0, "sample": 0, "output": "_c_m_p_t_r", "pass": false, "latency_s": 0.412}
+{"id": "str-06", "family": "string", "temperature": 0.0, "sample": 1, "output": "_c_m_p_t_r", "pass": false, "latency_s": 0.352}
+{"id": "str-06", "family": "string", "temperature": 0.0, "sample": 2, "output": "_c_m_p_t_r", "pass": false, "latency_s": 0.352}
+{"id": "str-07", "family": "string", "temperature": 0.0, "sample": 0, "output": "Apple", "pass": true, "latency_s": 0.271}
+{"id": "str-07", "family": "string", "temperature": 0.0, "sample": 1, "output": "Apple", "pass": true, "latency_s": 0.114}
+{"id": "str-07", "family": "string", "temperature": 0.0, "sample": 2, "output": "Apple", "pass": true, "latency_s": 0.119}
+{"id": "str-08", "family": "string", "temperature": 0.0, "sample": 0, "output": "apple fig pear", "pass": true, "latency_s": 0.225}
+{"id": "str-08", "family": "string", "temperature": 0.0, "sample": 1, "output": "apple fig pear", "pass": true, "latency_s": 0.221}
+{"id": "str-08", "family": "string", "temperature": 0.0, "sample": 2, "output": "apple fig pear", "pass": true, "latency_s": 0.221}
+{"id": "str-09", "family": "string", "temperature": 0.0, "sample": 0, "output": "brown", "pass": true, "latency_s": 0.386}
+{"id": "str-09", "family": "string", "temperature": 0.0, "sample": 1, "output": "brown", "pass": true, "latency_s": 0.12}
+{"id": "str-09", "family": "string", "temperature": 0.0, "sample": 2, "output": "brown", "pass": true, "latency_s": 0.12}
+{"id": "str-10", "family": "string", "temperature": 0.0, "sample": 0, "output": "2", "pass": false, "latency_s": 0.121}
+{"id": "str-10", "family": "string", "temperature": 0.0, "sample": 1, "output": "2", "pass": false, "latency_s": 0.122}
+{"id": "str-10", "family": "string", "temperature": 0.0, "sample": 2, "output": "2", "pass": false, "latency_s": 0.114}
+{"id": "str-11", "family": "string", "temperature": 0.0, "sample": 0, "output": "a+b+c", "pass": true, "latency_s": 0.262}
+{"id": "str-11", "family": "string", "temperature": 0.0, "sample": 1, "output": "a+b+c", "pass": true, "latency_s": 0.245}
+{"id": "str-11", "family": "string", "temperature": 0.0, "sample": 2, "output": "a+b+c", "pass": true, "latency_s": 0.239}
+{"id": "str-12", "family": "string", "temperature": 0.0, "sample": 0, "output": "abcabc", "pass": true, "latency_s": 0.281}
+{"id": "str-12", "family": "string", "temperature": 0.0, "sample": 1, "output": "abcabc", "pass": true, "latency_s": 0.162}
+{"id": "str-12", "family": "string", "temperature": 0.0, "sample": 2, "output": "abcabc", "pass": true, "latency_s": 0.169}
+{"id": "str-13", "family": "string", "temperature": 0.0, "sample": 0, "output": "shout", "pass": true, "latency_s": 0.258}
+{"id": "str-13", "family": "string", "temperature": 0.0, "sample": 1, "output": "shout", "pass": true, "latency_s": 0.224}
+{"id": "str-13", "family": "string", "temperature": 0.0, "sample": 2, "output": "shout", "pass": true, "latency_s": 0.182}
+{"id": "str-14", "family": "string", "temperature": 0.0, "sample": 0, "output": "abcd", "pass": true, "latency_s": 0.185}
+{"id": "str-14", "family": "string", "temperature": 0.0, "sample": 1, "output": "abcd", "pass": true, "latency_s": 0.165}
+{"id": "str-14", "family": "string", "temperature": 0.0, "sample": 2, "output": "abcd", "pass": true, "latency_s": 0.138}
+{"id": "str-15", "family": "string", "temperature": 0.0, "sample": 0, "output": "p n", "pass": false, "latency_s": 0.537}
+{"id": "str-15", "family": "string", "temperature": 0.0, "sample": 1, "output": "p n", "pass": false, "latency_s": 0.204}
+{"id": "str-15", "family": "string", "temperature": 0.0, "sample": 2, "output": "p n", "pass": false, "latency_s": 0.165}
+{"id": "arith-01", "family": "arithmetic", "temperature": 0.7, "sample": 0, "output": "3801", "pass": false, "latency_s": 0.316}
+{"id": "arith-01", "family": "arithmetic", "temperature": 0.7, "sample": 1, "output": "3881", "pass": false, "latency_s": 0.305}
+{"id": "arith-01", "family": "arithmetic", "temperature": 0.7, "sample": 2, "output": "3801", "pass": false, "latency_s": 0.309}
+{"id": "arith-02", "family": "arithmetic", "temperature": 0.7, "sample": 0, "output": "10000", "pass": true, "latency_s": 0.372}
+{"id": "arith-02", "family": "arithmetic", "temperature": 0.7, "sample": 1, "output": "10000", "pass": true, "latency_s": 0.376}
+{"id": "arith-02", "family": "arithmetic", "temperature": 0.7, "sample": 2, "output": "10000", "pass": true, "latency_s": 0.377}
+{"id": "arith-03", "family": "arithmetic", "temperature": 0.7, "sample": 0, "output": "3713", "pass": true, "latency_s": 0.319}
+{"id": "arith-03", "family": "arithmetic", "temperature": 0.7, "sample": 1, "output": "3713", "pass": true, "latency_s": 0.307}
+{"id": "arith-03", "family": "arithmetic", "temperature": 0.7, "sample": 2, "output": "3713", "pass": true, "latency_s": 0.32}
+{"id": "arith-04", "family": "arithmetic", "temperature": 0.7, "sample": 0, "output": "12", "pass": true, "latency_s": 0.189}
+{"id": "arith-04", "family": "arithmetic", "temperature": 0.7, "sample": 1, "output": "12", "pass": true, "latency_s": 0.204}
+{"id": "arith-04", "family": "arithmetic", "temperature": 0.7, "sample": 2, "output": "12", "pass": true, "latency_s": 0.189}
+{"id": "arith-05", "family": "arithmetic", "temperature": 0.7, "sample": 0, "output": "289", "pass": true, "latency_s": 0.251}
+{"id": "arith-05", "family": "arithmetic", "temperature": 0.7, "sample": 1, "output": "289", "pass": true, "latency_s": 0.233}
+{"id": "arith-05", "family": "arithmetic", "temperature": 0.7, "sample": 2, "output": "289", "pass": true, "latency_s": 0.25}
+{"id": "arith-06", "family": "arithmetic", "temperature": 0.7, "sample": 0, "output": "1024", "pass": true, "latency_s": 0.313}
+{"id": "arith-06", "family": "arithmetic", "temperature": 0.7, "sample": 1, "output": "1024", "pass": true, "latency_s": 0.304}
+{"id": "arith-06", "family": "arithmetic", "temperature": 0.7, "sample": 2, "output": "1024", "pass": true, "latency_s": 0.302}
+{"id": "arith-07", "family": "arithmetic", "temperature": 0.7, "sample": 0, "output": "2", "pass": false, "latency_s": 0.131}
+{"id": "arith-07", "family": "arithmetic", "temperature": 0.7, "sample": 1, "output": "2", "pass": false, "latency_s": 0.14}
+{"id": "arith-07", "family": "arithmetic", "temperature": 0.7, "sample": 2, "output": "2", "pass": false, "latency_s": 0.127}
+{"id": "arith-08", "family": "arithmetic", "temperature": 0.7, "sample": 0, "output": "36", "pass": true, "latency_s": 0.189}
+{"id": "arith-08", "family": "arithmetic", "temperature": 0.7, "sample": 1, "output": "36", "pass": true, "latency_s": 0.182}
+{"id": "arith-08", "family": "arithmetic", "temperature": 0.7, "sample": 2, "output": "36", "pass": true, "latency_s": 0.189}
+{"id": "arith-09", "family": "arithmetic", "temperature": 0.7, "sample": 0, "output": "998001", "pass": true, "latency_s": 0.408}
+{"id": "arith-09", "family": "arithmetic", "temperature": 0.7, "sample": 1, "output": "998001", "pass": true, "latency_s": 0.401}
+{"id": "arith-09", "family": "arithmetic", "temperature": 0.7, "sample": 2, "output": "998001", "pass": true, "latency_s": 0.433}
+{"id": "arith-10", "family": "arithmetic", "temperature": 0.7, "sample": 0, "output": "5050", "pass": true, "latency_s": 0.305}
+{"id": "arith-10", "family": "arithmetic", "temperature": 0.7, "sample": 1, "output": "5050", "pass": true, "latency_s": 0.397}
+{"id": "arith-10", "family": "arithmetic", "temperature": 0.7, "sample": 2, "output": "5050", "pass": true, "latency_s": 0.432}
+{"id": "arith-11", "family": "arithmetic", "temperature": 0.7, "sample": 0, "output": "21", "pass": true, "latency_s": 0.206}
+{"id": "arith-11", "family": "arithmetic", "temperature": 0.7, "sample": 1, "output": "21", "pass": true, "latency_s": 0.194}
+{"id": "arith-11", "family": "arithmetic", "temperature": 0.7, "sample": 2, "output": "21", "pass": true, "latency_s": 0.184}
+{"id": "arith-12", "family": "arithmetic", "temperature": 0.7, "sample": 0, "output": "5040", "pass": true, "latency_s": 0.314}
+{"id": "arith-12", "family": "arithmetic", "temperature": 0.7, "sample": 1, "output": "5040", "pass": true, "latency_s": 0.292}
+{"id": "arith-12", "family": "arithmetic", "temperature": 0.7, "sample": 2, "output": "5040", "pass": true, "latency_s": 0.288}
+{"id": "arith-13", "family": "arithmetic", "temperature": 0.7, "sample": 0, "output": "777777", "pass": true, "latency_s": 0.435}
+{"id": "arith-13", "family": "arithmetic", "temperature": 0.7, "sample": 1, "output": "777777", "pass": true, "latency_s": 0.44}
+{"id": "arith-13", "family": "arithmetic", "temperature": 0.7, "sample": 2, "output": "777777", "pass": true, "latency_s": 0.452}
+{"id": "arith-14", "family": "arithmetic", "temperature": 0.7, "sample": 0, "output": "253", "pass": true, "latency_s": 0.276}
+{"id": "arith-14", "family": "arithmetic", "temperature": 0.7, "sample": 1, "output": "253", "pass": true, "latency_s": 0.257}
+{"id": "arith-14", "family": "arithmetic", "temperature": 0.7, "sample": 2, "output": "253", "pass": true, "latency_s": 0.24}
+{"id": "arith-15", "family": "arithmetic", "temperature": 0.7, "sample": 0, "output": "8760", "pass": true, "latency_s": 0.29}
+{"id": "arith-15", "family": "arithmetic", "temperature": 0.7, "sample": 1, "output": "8760", "pass": true, "latency_s": 0.305}
+{"id": "arith-15", "family": "arithmetic", "temperature": 0.7, "sample": 2, "output": "8760", "pass": true, "latency_s": 0.284}
+{"id": "code-01", "family": "code", "temperature": 0.7, "sample": 0, "output": "```python\ndef add(a, b):\n    return a + b\n```", "pass": true, "latency_s": 0.999}
+{"id": "code-01", "family": "code", "temperature": 0.7, "sample": 1, "output": "def add(a, b):\n    return a + b", "pass": true, "latency_s": 0.742}
+{"id": "code-01", "family": "code", "temperature": 0.7, "sample": 2, "output": "def add(a, b):\n    return a + b", "pass": true, "latency_s": 0.696}
+{"id": "code-02", "family": "code", "temperature": 0.7, "sample": 0, "output": "def is_even(n): return n % 2 == 0", "pass": true, "latency_s": 0.793}
+{"id": "code-02", "family": "code", "temperature": 0.7, "sample": 1, "output": "def is_even(n): return n % 2 == 0", "pass": true, "latency_s": 0.852}
+{"id": "code-02", "family": "code", "temperature": 0.7, "sample": 2, "output": "def is_even(n):\n    return n % 2 == 0", "pass": true, "latency_s": 0.914}
+{"id": "code-03", "family": "code", "temperature": 0.7, "sample": 0, "output": "def reverse_string(s):\n    return s[::-1]", "pass": true, "latency_s": 0.692}
+{"id": "code-03", "family": "code", "temperature": 0.7, "sample": 1, "output": "def reverse_string(s):\n    return s[::-1]", "pass": true, "latency_s": 0.684}
+{"id": "code-03", "family": "code", "temperature": 0.7, "sample": 2, "output": "def reverse_string(s):\n    return s[::-1]", "pass": true, "latency_s": 0.729}
+{"id": "code-04", "family": "code", "temperature": 0.7, "sample": 0, "output": "def max_of_list(xs): return max(xs)", "pass": true, "latency_s": 0.651}
+{"id": "code-04", "family": "code", "temperature": 0.7, "sample": 1, "output": "def max_of_list(xs): return max(xs)", "pass": true, "latency_s": 0.642}
+{"id": "code-04", "family": "code", "temperature": 0.7, "sample": 2, "output": "def max_of_list(xs): return max(xs)", "pass": true, "latency_s": 0.611}
+{"id": "code-05", "family": "code", "temperature": 0.7, "sample": 0, "output": "```python\ndef factorial(n):\n    if n == 0:\n        return 1\n    else:\n        return n * factorial(n - 1)\n```", "pass": true, "latency_s": 2.062}
+{"id": "code-05", "family": "code", "temperature": 0.7, "sample": 1, "output": "```python\ndef factorial(n):\n    if n == 0:\n        return 1\n    else:\n        return n * factorial(n - 1)\n```", "pass": true, "latency_s": 2.038}
+{"id": "code-05", "family": "code", "temperature": 0.7, "sample": 2, "output": "```python\ndef factorial(n):\n    if n == 0:\n        return 1\n    else:\n        return n * factorial(n - 1)\n```", "pass": true, "latency_s": 2.061}
+{"id": "code-06", "family": "code", "temperature": 0.7, "sample": 0, "output": "```python\ndef count_vowels(s):\n    return sum(1 for char in s if char in 'aeiou')\n```", "pass": true, "latency_s": 1.769}
+{"id": "code-06", "family": "code", "temperature": 0.7, "sample": 1, "output": "```python\ndef count_vowels(s):\n    return sum(1 for char in s if char in 'aeiou')\n```", "pass": true, "latency_s": 1.655}
+{"id": "code-06", "family": "code", "temperature": 0.7, "sample": 2, "output": "```python\ndef count_vowels(s):\n    return sum(1 for char in s if char in 'aeiou')\n```", "pass": true, "latency_s": 1.65}
+{"id": "code-07", "family": "code", "temperature": 0.7, "sample": 0, "output": "```python\ndef fib(n):\n    if n <= 0:\n        return 0\n    elif n == 1:\n        return 1\n    else:\n        a, b = 0, 1\n        for _ in range(2, n + 1):\n            a, b = b, a + b\n        return b\n```", "pass": true, "latency_s": 4.421}
+{"id": "code-07", "family": "code", "temperature": 0.7, "sample": 1, "output": "```python\ndef fib(n):\n    a, b = 0, 1\n    for _ in range(n):\n        a, b = b, a + b\n    return a\n```", "pass": true, "latency_s": 2.503}
+{"id": "code-07", "family": "code", "temperature": 0.7, "sample": 2, "output": "```python\ndef fib(n):\n    a, b = 0, 1\n    for _ in range(n):\n        a, b = b, a + b\n    return a\n```", "pass": true, "latency_s": 2.576}
+{"id": "code-08", "family": "code", "temperature": 0.7, "sample": 0, "output": "def is_palindrome(s): return s == s[::-1]", "pass": true, "latency_s": 0.884}
+{"id": "code-08", "family": "code", "temperature": 0.7, "sample": 1, "output": "def is_palindrome(s): return s == s[::-1]", "pass": true, "latency_s": 0.838}
+{"id": "code-08", "family": "code", "temperature": 0.7, "sample": 2, "output": "def is_palindrome(s): return s == s[::-1]", "pass": true, "latency_s": 0.829}
+{"id": "code-09", "family": "code", "temperature": 0.7, "sample": 0, "output": "def sum_digits(n):\n    return sum(int(digit) for digit in str(n))", "pass": true, "latency_s": 1.153}
+{"id": "code-09", "family": "code", "temperature": 0.7, "sample": 1, "output": "```python\ndef sum_digits(n):\n    return sum(int(digit) for digit in str(n))\n```", "pass": true, "latency_s": 1.439}
+{"id": "code-09", "family": "code", "temperature": 0.7, "sample": 2, "output": "def sum_digits(n):\n    return sum(int(digit) for digit in str(n))", "pass": true, "latency_s": 1.124}
+{"id": "code-10", "family": "code", "temperature": 0.7, "sample": 0, "output": "def flatten(xss): return [x for l in xss for x in l]", "pass": true, "latency_s": 1.141}
+{"id": "code-10", "family": "code", "temperature": 0.7, "sample": 1, "output": "def flatten(xss): return [x for l in xss for x in l]", "pass": true, "latency_s": 1.136}
+{"id": "code-10", "family": "code", "temperature": 0.7, "sample": 2, "output": "def flatten(xss): return [x for l in xss for x in l]", "pass": true, "latency_s": 1.099}
+{"id": "code-11", "family": "code", "temperature": 0.7, "sample": 0, "output": "```python\ndef gcd(a, b):\n    while b:\n        a, b = b, a % b\n    return a\n```", "pass": true, "latency_s": 1.799}
+{"id": "code-11", "family": "code", "temperature": 0.7, "sample": 1, "output": "```python\ndef gcd(a, b):\n    while b:\n        a, b = b, a % b\n    return a\n```", "pass": true, "latency_s": 1.783}
+{"id": "code-11", "family": "code", "temperature": 0.7, "sample": 2, "output": "```python\ndef gcd(a, b):\n    while b:\n        a, b = b, a % b\n    return a\n```", "pass": true, "latency_s": 1.824}
+{"id": "code-12", "family": "code", "temperature": 0.7, "sample": 0, "output": "def second_largest(xs): return sorted(set(xs))[-2] if len(set(xs)) >= 2 else None", "pass": true, "latency_s": 1.511}
+{"id": "code-12", "family": "code", "temperature": 0.7, "sample": 1, "output": "```python\ndef second_largest(xs):\n    unique = list(set(xs))\n    unique.sort()\n    return unique[-2]\n```", "pass": true, "latency_s": 1.674}
+{"id": "code-12", "family": "code", "temperature": 0.7, "sample": 2, "output": "```python\ndef second_largest(xs):\n    unique = list(set(xs))\n    unique.sort()\n    return unique[-2]\n```", "pass": true, "latency_s": 1.717}
+{"id": "code-13", "family": "code", "temperature": 0.7, "sample": 0, "output": "def word_count(s):\n    return len(s.split())", "pass": true, "latency_s": 0.725}
+{"id": "code-13", "family": "code", "temperature": 0.7, "sample": 1, "output": "```python\ndef word_count(s):\n    return len(s.split())\n```", "pass": true, "latency_s": 0.91}
+{"id": "code-13", "family": "code", "temperature": 0.7, "sample": 2, "output": "```python\ndef word_count(s):\n    return len(s.split())\n```", "pass": true, "latency_s": 0.957}
+{"id": "code-14", "family": "code", "temperature": 0.7, "sample": 0, "output": "def clamp(x, lo, hi): return max(lo, min(x, hi))", "pass": true, "latency_s": 1.064}
+{"id": "code-14", "family": "code", "temperature": 0.7, "sample": 1, "output": "def clamp(x, lo, hi): return max(lo, min(x, hi))", "pass": true, "latency_s": 1.088}
+{"id": "code-14", "family": "code", "temperature": 0.7, "sample": 2, "output": "def clamp(x, lo, hi): return max(lo, min(x, hi))", "pass": true, "latency_s": 1.136}
+{"id": "code-15", "family": "code", "temperature": 0.7, "sample": 0, "output": "```python\ndef is_prime(n):\n    if n <= 1:\n        return False\n    if n == 2:\n        return True\n    if n % 2 == 0:\n        return False\n    for i in range(3, int(n**0.5) + 1, 2):\n        if n % i == 0:\n            return False\n    return True\n```", "pass": true, "latency_s": 5.088}
+{"id": "code-15", "family": "code", "temperature": 0.7, "sample": 1, "output": "def is_prime(n):\n    if n <= 1:\n        return False\n    if n == 2:\n        return True\n    if n % 2 == 0:\n        return False\n    for i in range(3, int(n**0.5) + 1, 2):\n        if n % i == 0:\n            return False\n    return True", "pass": true, "latency_s": 4.676}
+{"id": "code-15", "family": "code", "temperature": 0.7, "sample": 2, "output": "```python\ndef is_prime(n):\n    if n <= 1:\n        return False\n    if n == 2:\n        return True\n    if n % 2 == 0:\n        return False\n    for i in range(3, int(n**0.5) + 1, 2):\n        if n % i == 0:\n            return False\n    return True\n```", "pass": true, "latency_s": 5.045}
+{"id": "fact-01", "family": "fact", "temperature": 0.7, "sample": 0, "output": "Canberra", "pass": true, "latency_s": 0.31}
+{"id": "fact-01", "family": "fact", "temperature": 0.7, "sample": 1, "output": "Canberra", "pass": true, "latency_s": 0.184}
+{"id": "fact-01", "family": "fact", "temperature": 0.7, "sample": 2, "output": "Canberra", "pass": true, "latency_s": 0.183}
+{"id": "fact-02", "family": "fact", "temperature": 0.7, "sample": 0, "output": "Au", "pass": true, "latency_s": 0.237}
+{"id": "fact-02", "family": "fact", "temperature": 0.7, "sample": 1, "output": "Au", "pass": true, "latency_s": 0.114}
+{"id": "fact-02", "family": "fact", "temperature": 0.7, "sample": 2, "output": "Au", "pass": true, "latency_s": 0.115}
+{"id": "fact-03", "family": "fact", "temperature": 0.7, "sample": 0, "output": "1945", "pass": true, "latency_s": 0.298}
+{"id": "fact-03", "family": "fact", "temperature": 0.7, "sample": 1, "output": "1945", "pass": true, "latency_s": 0.288}
+{"id": "fact-03", "family": "fact", "temperature": 0.7, "sample": 2, "output": "1945", "pass": true, "latency_s": 0.299}
+{"id": "fact-04", "family": "fact", "temperature": 0.7, "sample": 0, "output": "Jupiter", "pass": true, "latency_s": 0.303}
+{"id": "fact-04", "family": "fact", "temperature": 0.7, "sample": 1, "output": "Jupiter", "pass": true, "latency_s": 0.184}
+{"id": "fact-04", "family": "fact", "temperature": 0.7, "sample": 2, "output": "Jupiter", "pass": true, "latency_s": 0.184}
+{"id": "fact-05", "family": "fact", "temperature": 0.7, "sample": 0, "output": "Pacific Ocean", "pass": true, "latency_s": 0.193}
+{"id": "fact-05", "family": "fact", "temperature": 0.7, "sample": 1, "output": "Pacific Ocean", "pass": true, "latency_s": 0.185}
+{"id": "fact-05", "family": "fact", "temperature": 0.7, "sample": 2, "output": "Pacific Ocean", "pass": true, "latency_s": 0.184}
+{"id": "fact-06", "family": "fact", "temperature": 0.7, "sample": 0, "output": "6", "pass": true, "latency_s": 0.246}
+{"id": "fact-06", "family": "fact", "temperature": 0.7, "sample": 1, "output": "6", "pass": true, "latency_s": 0.131}
+{"id": "fact-06", "family": "fact", "temperature": 0.7, "sample": 2, "output": "6", "pass": true, "latency_s": 0.125}
+{"id": "fact-07", "family": "fact", "temperature": 0.7, "sample": 0, "output": "100", "pass": true, "latency_s": 0.242}
+{"id": "fact-07", "family": "fact", "temperature": 0.7, "sample": 1, "output": "100", "pass": true, "latency_s": 0.235}
+{"id": "fact-07", "family": "fact", "temperature": 0.7, "sample": 2, "output": "100", "pass": true, "latency_s": 0.241}
+{"id": "fact-08", "family": "fact", "temperature": 0.7, "sample": 0, "output": "Hydrogen", "pass": true, "latency_s": 0.36}
+{"id": "fact-08", "family": "fact", "temperature": 0.7, "sample": 1, "output": "Hydrogen", "pass": true, "latency_s": 0.249}
+{"id": "fact-08", "family": "fact", "temperature": 0.7, "sample": 2, "output": "Hydrogen", "pass": true, "latency_s": 0.243}
+{"id": "fact-09", "family": "fact", "temperature": 0.7, "sample": 0, "output": "Ottawa", "pass": true, "latency_s": 0.359}
+{"id": "fact-09", "family": "fact", "temperature": 0.7, "sample": 1, "output": "Ottawa", "pass": true, "latency_s": 0.244}
+{"id": "fact-09", "family": "fact", "temperature": 0.7, "sample": 2, "output": "Ottawa", "pass": true, "latency_s": 0.241}
+{"id": "fact-10", "family": "fact", "temperature": 0.7, "sample": 0, "output": "13", "pass": true, "latency_s": 0.185}
+{"id": "fact-10", "family": "fact", "temperature": 0.7, "sample": 1, "output": "13", "pass": true, "latency_s": 0.182}
+{"id": "fact-10", "family": "fact", "temperature": 0.7, "sample": 2, "output": "13", "pass": true, "latency_s": 0.181}
+{"id": "fact-11", "family": "fact", "temperature": 0.7, "sample": 0, "output": "Dutch", "pass": true, "latency_s": 0.29}
+{"id": "fact-11", "family": "fact", "temperature": 0.7, "sample": 1, "output": "Dutch", "pass": true, "latency_s": 0.169}
+{"id": "fact-11", "family": "fact", "temperature": 0.7, "sample": 2, "output": "Dutch", "pass": true, "latency_s": 0.187}
+{"id": "fact-12", "family": "fact", "temperature": 0.7, "sample": 0, "output": "Japanese Yen", "pass": false, "latency_s": 0.236}
+{"id": "fact-12", "family": "fact", "temperature": 0.7, "sample": 1, "output": "Japanese Yen (JPY)", "pass": false, "latency_s": 0.48}
+{"id": "fact-12", "family": "fact", "temperature": 0.7, "sample": 2, "output": "Japanese Yen", "pass": false, "latency_s": 0.248}
+{"id": "fact-13", "family": "fact", "temperature": 0.7, "sample": 0, "output": "1440", "pass": true, "latency_s": 0.426}
+{"id": "fact-13", "family": "fact", "temperature": 0.7, "sample": 1, "output": "1440", "pass": true, "latency_s": 0.309}
+{"id": "fact-13", "family": "fact", "temperature": 0.7, "sample": 2, "output": "1440", "pass": true, "latency_s": 0.327}
+{"id": "fact-14", "family": "fact", "temperature": 0.7, "sample": 0, "output": "H\u2082O", "pass": true, "latency_s": 0.372}
+{"id": "fact-14", "family": "fact", "temperature": 0.7, "sample": 1, "output": "H\u2082O", "pass": true, "latency_s": 0.249}
+{"id": "fact-14", "family": "fact", "temperature": 0.7, "sample": 2, "output": "H\u2082O", "pass": true, "latency_s": 0.237}
+{"id": "fact-15", "family": "fact", "temperature": 0.7, "sample": 0, "output": "Africa", "pass": true, "latency_s": 0.234}
+{"id": "fact-15", "family": "fact", "temperature": 0.7, "sample": 1, "output": "Africa", "pass": true, "latency_s": 0.118}
+{"id": "fact-15", "family": "fact", "temperature": 0.7, "sample": 2, "output": "Africa", "pass": true, "latency_s": 0.122}
+{"id": "str-01", "family": "string", "temperature": 0.7, "sample": 0, "output": "ananab", "pass": true, "latency_s": 0.188}
+{"id": "str-01", "family": "string", "temperature": 0.7, "sample": 1, "output": "ananab", "pass": true, "latency_s": 0.188}
+{"id": "str-01", "family": "string", "temperature": 0.7, "sample": 2, "output": "ananab", "pass": true, "latency_s": 0.188}
+{"id": "str-02", "family": "string", "temperature": 0.7, "sample": 0, "output": "cat-cat-cat", "pass": true, "latency_s": 0.253}
+{"id": "str-02", "family": "string", "temperature": 0.7, "sample": 1, "output": "cat-cat-cat", "pass": true, "latency_s": 0.252}
+{"id": "str-02", "family": "string", "temperature": 0.7, "sample": 2, "output": "cat-cat-cat", "pass": true, "latency_s": 0.252}
+{"id": "str-03", "family": "string", "temperature": 0.7, "sample": 0, "output": "H,E,L,L,O", "pass": true, "latency_s": 0.386}
+{"id": "str-03", "family": "string", "temperature": 0.7, "sample": 1, "output": "H,E,L,L,O", "pass": true, "latency_s": 0.363}
+{"id": "str-03", "family": "string", "temperature": 0.7, "sample": 2, "output": "H,E,L,L,O", "pass": true, "latency_s": 0.356}
+{"id": "str-04", "family": "string", "temperature": 0.7, "sample": 0, "output": "54321", "pass": true, "latency_s": 0.343}
+{"id": "str-04", "family": "string", "temperature": 0.7, "sample": 1, "output": "54321", "pass": true, "latency_s": 0.352}
+{"id": "str-04", "family": "string", "temperature": 0.7, "sample": 2, "output": "54321", "pass": true, "latency_s": 0.365}
+{"id": "str-05", "family": "string", "temperature": 0.7, "sample": 0, "output": "OK", "pass": true, "latency_s": 0.128}
+{"id": "str-05", "family": "string", "temperature": 0.7, "sample": 1, "output": "OK", "pass": true, "latency_s": 0.128}
+{"id": "str-05", "family": "string", "temperature": 0.7, "sample": 2, "output": "OK", "pass": true, "latency_s": 0.123}
+{"id": "str-06", "family": "string", "temperature": 0.7, "sample": 0, "output": "_c_m_p_t_r", "pass": false, "latency_s": 0.369}
+{"id": "str-06", "family": "string", "temperature": 0.7, "sample": 1, "output": "_c_m_p_t_r", "pass": false, "latency_s": 0.382}
+{"id": "str-06", "family": "string", "temperature": 0.7, "sample": 2, "output": "_c_m_p_t_r", "pass": false, "latency_s": 0.372}
+{"id": "str-07", "family": "string", "temperature": 0.7, "sample": 0, "output": "Apple", "pass": true, "latency_s": 0.119}
+{"id": "str-07", "family": "string", "temperature": 0.7, "sample": 1, "output": "Apple", "pass": true, "latency_s": 0.119}
+{"id": "str-07", "family": "string", "temperature": 0.7, "sample": 2, "output": "Apple", "pass": true, "latency_s": 0.115}
+{"id": "str-08", "family": "string", "temperature": 0.7, "sample": 0, "output": "apple fig pear", "pass": true, "latency_s": 0.238}
+{"id": "str-08", "family": "string", "temperature": 0.7, "sample": 1, "output": "apple fig pear", "pass": true, "latency_s": 0.229}
+{"id": "str-08", "family": "string", "temperature": 0.7, "sample": 2, "output": "apple fig pear", "pass": true, "latency_s": 0.233}
+{"id": "str-09", "family": "string", "temperature": 0.7, "sample": 0, "output": "brown", "pass": true, "latency_s": 0.122}
+{"id": "str-09", "family": "string", "temperature": 0.7, "sample": 1, "output": "brown", "pass": true, "latency_s": 0.124}
+{"id": "str-09", "family": "string", "temperature": 0.7, "sample": 2, "output": "brown", "pass": true, "latency_s": 0.121}
+{"id": "str-10", "family": "string", "temperature": 0.7, "sample": 0, "output": "2", "pass": false, "latency_s": 0.12}
+{"id": "str-10", "family": "string", "temperature": 0.7, "sample": 1, "output": "2", "pass": false, "latency_s": 0.121}
+{"id": "str-10", "family": "string", "temperature": 0.7, "sample": 2, "output": "2", "pass": false, "latency_s": 0.122}
+{"id": "str-11", "family": "string", "temperature": 0.7, "sample": 0, "output": "a+b+c", "pass": true, "latency_s": 0.266}
+{"id": "str-11", "family": "string", "temperature": 0.7, "sample": 1, "output": "a+b+c", "pass": true, "latency_s": 0.264}
+{"id": "str-11", "family": "string", "temperature": 0.7, "sample": 2, "output": "a+b+c", "pass": true, "latency_s": 0.242}
+{"id": "str-12", "family": "string", "temperature": 0.7, "sample": 0, "output": "abcabc", "pass": true, "latency_s": 0.179}
+{"id": "str-12", "family": "string", "temperature": 0.7, "sample": 1, "output": "abcabc", "pass": true, "latency_s": 0.185}
+{"id": "str-12", "family": "string", "temperature": 0.7, "sample": 2, "output": "abcabc", "pass": true, "latency_s": 0.181}
+{"id": "str-13", "family": "string", "temperature": 0.7, "sample": 0, "output": "shout", "pass": true, "latency_s": 0.175}
+{"id": "str-13", "family": "string", "temperature": 0.7, "sample": 1, "output": "shout", "pass": true, "latency_s": 0.17}
+{"id": "str-13", "family": "string", "temperature": 0.7, "sample": 2, "output": "shout", "pass": true, "latency_s": 0.181}
+{"id": "str-14", "family": "string", "temperature": 0.7, "sample": 0, "output": "abcd", "pass": true, "latency_s": 0.129}
+{"id": "str-14", "family": "string", "temperature": 0.7, "sample": 1, "output": "abcd", "pass": true, "latency_s": 0.117}
+{"id": "str-14", "family": "string", "temperature": 0.7, "sample": 2, "output": "abcd", "pass": true, "latency_s": 0.121}
+{"id": "str-15", "family": "string", "temperature": 0.7, "sample": 0, "output": "p n", "pass": false, "latency_s": 0.182}
+{"id": "str-15", "family": "string", "temperature": 0.7, "sample": 1, "output": "p n", "pass": false, "latency_s": 0.187}
+{"id": "str-15", "family": "string", "temperature": 0.7, "sample": 2, "output": "p n", "pass": false, "latency_s": 0.19}
