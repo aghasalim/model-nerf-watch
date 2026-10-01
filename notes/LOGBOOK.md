@@ -43,7 +43,7 @@ Things that went wrong:
 Early observations from the first run, before any statistics: the model is
 confidently wrong on 47 * 83 (says 3801) and on 1001 mod 7 (says 2), at both
 temperatures, all three samples. Those are stable failures, not noise, which
-is exactly the kind of item that makes a paired test useful.
+is the kind of item that makes a paired test useful.
 
 Later the same day, the first real result and a mistake.
 

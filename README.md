@@ -76,14 +76,13 @@ There are 60 probes. Treating the 3 samples per probe as independent gives
 180 samples, which is enough for a 10 point drop and not for 5. Treating
 them honestly as 60 correlated items, only a drop of about 20 points is
 reliably visible from one run. Smaller drifts need more probes or more days
-of runs pooled together. This is the main limitation and it is stated up
-front rather than hidden.
+of runs pooled together. This is the main limitation.
 
 ### Planted degradation
 
 To show the detector fires on a real change, `qwen3:4b` (same family,
 same quantisation, half the parameters) was run through the same pipeline.
-This is planted. Nobody changed qwen3:8b. Two runs were needed, and the
+Nobody changed qwen3:8b. Two runs were needed, and the
 first one is a finding on its own.
 
 | run | pass | n | rate | 95% CI | vs qwen3:8b r3 | z-test p | McNemar p |

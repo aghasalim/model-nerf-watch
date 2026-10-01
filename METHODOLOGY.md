@@ -27,7 +27,7 @@ moving part that could itself degrade, which defeats the purpose.
 Each probe is sampled `n` times at temperature 0 and again at temperature
 0.7. The temperature 0 samples are the canary. The temperature 0.7 samples
 show how much the model moves on its own. Pass rates always come with a
-Wilson 95% interval, never bare.
+Wilson 95% interval.
 
 ## Two tests, both reported
 
