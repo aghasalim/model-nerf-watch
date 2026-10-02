@@ -14,6 +14,8 @@ by `scripts/check_numbers.py`.
 
 ## Results
 
+![pass rate per probe family across three runs](results/families_bars.svg)
+
 Model under watch: `qwen3:8b` through local Ollama (Q4_K_M, thinking turned
 off with `think: false`). Three full runs on the same day, each probe sampled
 3 times at temperature 0 and 3 times at 0.7, so 180 samples per run per
