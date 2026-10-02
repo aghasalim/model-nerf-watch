@@ -4,7 +4,6 @@ The README refers to numbers with a `<!-- num:KEY -->VALUE` marker. This script
 rebuilds summary.json from the raw jsonl, looks every KEY up, and compares.
 """
 
-import json
 import re
 import sys
 from pathlib import Path
