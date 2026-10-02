@@ -164,6 +164,8 @@ will draw the drift plot.
 - `notes/LOGBOOK.md` what was tried, including what went wrong
 - `METHODOLOGY.md` the rules
 
+`scripts/make_bars.py` redraws the bar chart at the top of the results section from `results/summary.json`, so the figure and the table cannot disagree.
+
 ## Limitations
 
 - 60 probes sees 20 point drops from one run, not 5 point drifts.
