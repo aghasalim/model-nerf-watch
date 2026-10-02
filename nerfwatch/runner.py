@@ -21,6 +21,12 @@ def load_results(path):
 
 
 def run(model, n=3, temperatures=(0.0, 0.7), run_name=None, max_tokens=256, log=print):
+    """Sample every probe `n` times at each temperature and append to the run's jsonl.
+
+    Items already present in the file are skipped, so an interrupted run can be
+    restarted with the same `run_name` and it picks up where it stopped.
+    Returns the path of the jsonl file.
+    """
     path = result_path(model, run_name or dt.date.today().isoformat())
     path.parent.mkdir(parents=True, exist_ok=True)
     done = {(r["id"], r["temperature"], r["sample"]) for r in load_results(path)} if path.exists() else set()
