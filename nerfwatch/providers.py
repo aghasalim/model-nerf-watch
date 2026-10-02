@@ -36,7 +36,7 @@ def build_request(spec, prompt, temperature, max_tokens=256, seed=0):
     provider, _, model = spec.partition("/")
     msgs = [{"role": "system", "content": SYSTEM}, {"role": "user", "content": prompt}]
     if provider == "ollama":
-        host = os.environ.get("OLLAMA_HOST", "http://localhost:11434")
+        host = os.environ.get("OLLAMA_HOST", "http://localhost:11434").rstrip("/")
         # think=False turns off qwen3's thinking mode, which otherwise fills the
         # budget with a <think> block before the answer.
         opts = {"temperature": temperature, "num_predict": max_tokens}

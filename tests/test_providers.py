@@ -55,3 +55,9 @@ def test_complete_uses_post(monkeypatch):
 def test_unknown_provider():
     with pytest.raises(ValueError):
         providers.build_request("nope/x", "q", 0.0)
+
+
+def test_ollama_host_trailing_slash(monkeypatch):
+    monkeypatch.setenv("OLLAMA_HOST", "http://box:11434/")
+    url, _, _ = providers.build_request("ollama/qwen3:8b", "hi", 0.0)
+    assert url == "http://box:11434/api/chat"
