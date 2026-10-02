@@ -37,11 +37,11 @@ def build_request(spec, prompt, temperature, max_tokens=256, seed=0):
     msgs = [{"role": "system", "content": SYSTEM}, {"role": "user", "content": prompt}]
     if provider == "ollama":
         host = os.environ.get("OLLAMA_HOST", "http://localhost:11434").rstrip("/")
-        # think=False turns off qwen3's thinking mode, which otherwise fills the
-        # budget with a <think> block before the answer.
         opts = {"temperature": temperature, "num_predict": max_tokens}
         if temperature == 0:
             opts["seed"] = seed  # at temperature > 0 the seed is left random on purpose, see LOGBOOK
+        # think=False turns off qwen3's thinking mode, which otherwise fills the
+        # budget with a <think> block before the answer.
         body = {"model": model, "messages": msgs, "stream": False, "think": False, "options": opts}
         return f"{host}/api/chat", body, {}
     if provider in OPENAI_LIKE:
