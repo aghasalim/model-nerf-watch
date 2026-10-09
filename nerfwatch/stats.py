@@ -30,7 +30,13 @@ def diff_ci(k1, n1, k2, n2, conf=0.95):
 
 
 def two_proportion_test(k1, n1, k2, n2):
-    """Pooled two-proportion z-test, two-sided. Returns (z, p_value)."""
+    """Pooled two-proportion z-test, two-sided. Returns (z, p_value).
+
+    An empty group carries no evidence, so it returns (0.0, 1.0) rather than
+    dividing by zero.
+    """
+    if n1 == 0 or n2 == 0:
+        return 0.0, 1.0
     p = (k1 + k2) / (n1 + n2)
     se = math.sqrt(p * (1 - p) * (1 / n1 + 1 / n2))
     if se == 0:

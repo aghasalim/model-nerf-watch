@@ -31,6 +31,11 @@ def test_two_proportion_identical_is_one():
     assert two_proportion_test(60, 60, 60, 60) == (0.0, 1.0)
 
 
+def test_two_proportion_empty_groups_is_one():
+    assert two_proportion_test(0, 0, 0, 0) == (0.0, 1.0)
+    assert two_proportion_test(0, 0, 3, 10) == (0.0, 1.0)
+
+
 def test_mcnemar_exact():
     assert mcnemar(0, 0) == 1.0
     assert mcnemar(5, 5) == 1.0
