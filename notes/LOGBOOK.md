@@ -88,3 +88,10 @@ indistinguishable from a capability drop until you open the raw outputs.
 Also deleted a 10 line partial file from an interrupted earlier start of the
 planted run. The runner is resumable so it would have continued, but the
 run name was wrong.
+
+## 2026-10-10
+
+`two_proportion_test(0, 0, 0, 0)` raised ZeroDivisionError, and so did any
+call with one empty group. An empty group carries no evidence, so it now
+returns z = 0 and p = 1, the same answer as two identical groups. No
+published number moves.
