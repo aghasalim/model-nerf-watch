@@ -29,7 +29,13 @@ def run(model, n=3, temperatures=(0.0, 0.7), run_name=None, max_tokens=256, log=
     """
     path = result_path(model, run_name or dt.date.today().isoformat())
     path.parent.mkdir(parents=True, exist_ok=True)
-    done = {(r["id"], r["temperature"], r["sample"]) for r in load_results(path)} if path.exists() else set()
+    rows = load_results(path) if path.exists() else []
+    # Resuming under a different token budget would mix two budgets in one run.
+    # Older rows have no max_tokens field, so only a recorded mismatch counts.
+    other = {r["max_tokens"] for r in rows if r.get("max_tokens") not in (None, max_tokens)}
+    if other:
+        raise ValueError(f"{path} was run with max_tokens={sorted(other)}, not {max_tokens}; use a new run name")
+    done = {(r["id"], r["temperature"], r["sample"]) for r in rows}
     probes = load_probes()
     todo = [(p, t, s) for p in probes for t in temperatures for s in range(n) if (p["id"], t, s) not in done]
     log(f"{model}: {len(done)} done, {len(todo)} to go -> {path}")

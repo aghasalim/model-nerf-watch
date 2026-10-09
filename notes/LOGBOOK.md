@@ -95,3 +95,9 @@ run name was wrong.
 call with one empty group. An empty group carries no evidence, so it now
 returns z = 0 and p = 1, the same answer as two identical groups. No
 published number moves.
+
+`run` resumed by (id, temperature, sample) and ignored the token budget, so
+rerunning a run name with a different `--max-tokens` would have filled the
+rest of the file at the new budget and mixed the two. It now refuses with a
+ValueError when the file already holds rows recorded at another budget. The
+oldest files have no `max_tokens` field and still resume as before.
