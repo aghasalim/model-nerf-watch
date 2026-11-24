@@ -1,3 +1,5 @@
+<p align="center"><img src="assets/banner.jpg" alt="Line drawing of a canary on a perch beside a daily control chart with one point below the band" width="100%"></p>
+
 # model-nerf-watch
 
 I wanted a cheap check I could run every day to see if a model is getting
@@ -12,6 +14,17 @@ big a drop the setup can detect. The most useful thing I got out of it was the
 noise floor, which I measured by running the same model against itself. All
 the numbers below come from files in `results/`, and CI re-derives them with
 `scripts/check_numbers.py`.
+
+<details>
+<summary>Contents</summary>
+
+- [Results](#results)
+- [How to run](#how-to-run)
+- [Hosted models](#hosted-models)
+- [Layout](#layout)
+- [Limitations](#limitations)
+
+</details>
 
 ## Results
 
