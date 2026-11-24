@@ -1,5 +1,3 @@
-<p align="center"><img src="assets/banner.jpg" alt="Line drawing of a canary on a perch beside a daily control chart with one point below the band" width="100%"></p>
-
 # model-nerf-watch
 
 I wanted a cheap check I could run every day to see if a model is getting
